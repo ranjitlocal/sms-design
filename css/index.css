@@ -1,0 +1,16 @@
+
+ 
+    <bean id="point1" class="com.ranjit.source.Point">
+    	<property name="x" value="0" />
+    	<property name="y" value="0" />
+    </bean>
+    <bean id="point2" class="com.ranjit.source.Point">
+    	<property name="x" value="20" />
+    	<property name="y" value="0" />
+    </bean>
+    <bean id="point3" class="com.ranjit.source.Point">
+     	<property name="x" value="0" />
+    	<property name="y" value="20" />
+    </bean>
+	
+				
